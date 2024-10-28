@@ -1,0 +1,5 @@
+train: C:/Users/liyang/Desktop/yolov5/data/usv-detector.v1i.yolov5pytorch/train/images
+val: C:/Users/liyang/Desktop/yolov5/data/usv-detector.v1i.yolov5pytorch/valid/images
+
+nc: 4
+names: ['usv0', 'usv1', 'usv2', 'usv3']
